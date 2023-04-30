@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm NanoS, a 13 year old developer. The primary languages I code in are Java, Rust and Python, though I have also been learning C++ recently.
-
-I also play a lot of different games, primarily Minecraft, which I also frequently mod for fun.
+I'm NanoS, a 14 year old developer. My favourite programming languages are C++, Rust, Java, and Kotlin.
 
 I like working on random projects whenever I feel like it, that's pretty much all of my public repos summed up.
 
